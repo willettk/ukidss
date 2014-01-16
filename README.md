@@ -18,7 +18,8 @@ Note: this repository is public, but the database of classifications is not. Cur
 ```
     ./fix_raw_classifications.sh 2013-11-03_galaxy_zoo_classifications.csv
     ./extract_ukidss_ids.sh 2013-11-03_galaxy_zoo_classifications.csv
-    python ukidss.py 2013-11-03_galaxy_zoo_classifications.csv
+    cd python
+    ukidss.py 2013-11-03_galaxy_zoo_classifications.csv
 ```
 
 Required Python packages:
