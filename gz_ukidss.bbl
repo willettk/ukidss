@@ -1,0 +1,108 @@
+\begin{thebibliography}{21}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Aguerri}, {M{\'e}ndez-Abreu} \& {Corsini}(2009){Aguerri},
+  {M{\'e}ndez-Abreu}, \& {Corsini}}]{agu09}
+{Aguerri} J.~A.~L., {M{\'e}ndez-Abreu} J., {Corsini} E.~M., 2009, \aap, 495,
+  491
+
+\bibitem[{{Athanassoula}, {Machado} \& {Rodionov}(2013){Athanassoula},
+  {Machado}, \& {Rodionov}}]{ath13}
+{Athanassoula} E., {Machado} R.~E.~G., {Rodionov} S.~A., 2013, \mnras, 460
+
+\bibitem[{{Barazza}, {Jogee} \& {Marinova}(2008){Barazza}, {Jogee}, \&
+  {Marinova}}]{bar08}
+{Barazza} F.~D., {Jogee} S., {Marinova} I., 2008, \apj, 675, 1194
+
+\bibitem[{{Bennett} {et~al}\mbox{.}(2013){Bennett}, {Larson}, {Weiland},
+  {Jarosik}, {Hinshaw}, {Odegard}, {Smith}, {Hill}, {Gold}, {Halpern},
+  {Komatsu}, {Nolta}, {Page}, {Spergel}, {Wollack}, {Dunkley}, {Kogut},
+  {Limon}, {Meyer}, {Tucker}, \& {Wright}}]{ben13}
+{Bennett} C.~L. {et~al.}, 2013, \apjs, 208, 20
+
+\bibitem[{{Combes}(2009)}]{com09a}
+{Combes} F., 2009, in Astronomical Society of the Pacific Conference Series,
+  Vol. 419, Galaxy Evolution: Emerging Insights and Future Challenges, {Jogee}
+  S., {Marinova} I., {Hao} L., {Blanc} G.~A., eds., p.~31
+
+\bibitem[{{Elmegreen}, {Elmegreen} \& {Hirst}(2004){Elmegreen}, {Elmegreen}, \&
+  {Hirst}}]{elm04}
+{Elmegreen} B.~G., {Elmegreen} D.~M., {Hirst} A.~C., 2004, \apj, 612, 191
+
+\bibitem[{{Lawrence} {et~al}\mbox{.}(2007){Lawrence}, {Warren}, {Almaini},
+  {Edge}, {Hambly}, {Jameson}, {Lucas}, {Casali}, {Adamson}, {Dye}, {Emerson},
+  {Foucaud}, {Hewett}, {Hirst}, {Hodgkin}, {Irwin}, {Lodieu}, {McMahon},
+  {Simpson}, {Smail}, {Mortlock}, \& {Folger}}]{law07}
+{Lawrence} A. {et~al.}, 2007, \mnras, 379, 1599
+
+\bibitem[{{Lee} {et~al}\mbox{.}(2012){Lee}, {Park}, {Lee}, \& {Choi}}]{lee12}
+{Lee} G.-H., {Park} C., {Lee} M.~G., {Choi} Y.-Y., 2012, \apj, 745, 125
+
+\bibitem[{{Lintott} {et~al}\mbox{.}(2011){Lintott}, {Schawinski}, {Bamford},
+  {Slosar}, {Land}, {Thomas}, {Edmondson}, {Masters}, {Nichol}, {Raddick},
+  {Szalay}, {Andreescu}, {Murray}, \& {Vandenberg}}]{lin11}
+{Lintott} C. {et~al.}, 2011, \mnras, 410, 166
+
+\bibitem[{{Lintott} {et~al}\mbox{.}(2008){Lintott}, {Schawinski}, {Slosar},
+  {Land}, {Bamford}, {Thomas}, {Raddick}, {Nichol}, {Szalay}, {Andreescu},
+  {Murray}, \& {Vandenberg}}]{lin08}
+{Lintott} C.~J. {et~al.}, 2008, \mnras, 389, 1179
+
+\bibitem[{{Marinova} \& {Jogee}(2007)}]{mar07a}
+{Marinova} I., {Jogee} S., 2007, \apj, 659, 1176
+
+\bibitem[{{Masters} {et~al}\mbox{.}(2011){Masters}, {Nichol}, {Hoyle},
+  {Lintott}, {Bamford}, {Edmondson}, {Fortson}, {Keel}, {Schawinski}, {Smith},
+  \& {Thomas}}]{mas11c}
+{Masters} K.~L. {et~al.}, 2011, \mnras, 411, 2026
+
+\bibitem[{{Men{\'e}ndez-Delmestre}
+  {et~al}\mbox{.}(2007){Men{\'e}ndez-Delmestre}, {Sheth}, {Schinnerer},
+  {Jarrett}, \& {Scoville}}]{men07a}
+{Men{\'e}ndez-Delmestre} K., {Sheth} K., {Schinnerer} E., {Jarrett} T.~H.,
+  {Scoville} N.~Z., 2007, \apj, 657, 790
+
+\bibitem[{{Planck Collaboration} {et~al}\mbox{.}(2013){Planck Collaboration},
+  {Ade}, {Aghanim}, {Armitage-Caplan}, {Arnaud}, {Ashdown}, {Atrio-Barandela},
+  {Aumont}, {Baccigalupi}, {Banday}, \& et~al.}]{pla13}
+{Planck Collaboration} {et~al.}, 2013, ArXiv e-prints
+
+\bibitem[{{Sheth} {et~al}\mbox{.}(2008){Sheth}, {Elmegreen}, {Elmegreen},
+  {Capak}, {Abraham}, {Athanassoula}, {Ellis}, {Mobasher}, {Salvato},
+  {Schinnerer}, {Scoville}, {Spalsbury}, {Strubbe}, {Carollo}, {Rich}, \&
+  {West}}]{she08a}
+{Sheth} K. {et~al.}, 2008, \apj, 675, 1141
+
+\bibitem[{{Taylor}(2011)}]{tay11}
+{Taylor} M., 2011, {TOPCAT: Tool for OPerations on Catalogues And Tables}.
+  Astrophysics Source Code Library
+
+\bibitem[{{Taylor}(2005)}]{tay05}
+{Taylor} M.~B., 2005, in Astronomical Society of the Pacific Conference Series,
+  Vol. 347, Astronomical Data Analysis Software and Systems XIV, {Shopbell} P.,
+  {Britton} M., {Ebert} R., eds., p.~29
+
+\bibitem[{{Warren} {et~al}\mbox{.}(2007){Warren}, {Hambly}, {Dye}, {Almaini},
+  {Cross}, {Edge}, {Foucaud}, {Hewett}, {Hodgkin}, {Irwin}, {Jameson},
+  {Lawrence}, {Lucas}, {Adamson}, {Bandyopadhyay}, {Bryant}, {Collins},
+  {Davis}, {Dunlop}, {Emerson}, {Evans}, {Gonzales-Solares}, {Hirst}, {Jarvis},
+  {Kendall}, {Kerr}, {Leggett}, {Lewis}, {Mann}, {McLure}, {McMahon},
+  {Mortlock}, {Rawlings}, {Read}, {Riello}, {Simpson}, {Smith}, {Sutorius},
+  {Targett}, \& {Varricatt}}]{war07}
+{Warren} S.~J. {et~al.}, 2007, \mnras, 375, 213
+
+\bibitem[{{Whyte} {et~al}\mbox{.}(2002){Whyte}, {Abraham}, {Merrifield},
+  {Eskridge}, {Frogel}, \& {Pogge}}]{why02}
+{Whyte} L.~F., {Abraham} R.~G., {Merrifield} M.~R., {Eskridge} P.~B., {Frogel}
+  J.~A., {Pogge} R.~W., 2002, \mnras, 336, 1281
+
+\bibitem[{{Willett} {et~al}\mbox{.}(2013){Willett}, {Lintott}, {Bamford},
+  {Masters}, {Simmons}, {Casteels}, {Edmondson}, {Fortson}, {Kaviraj}, {Keel},
+  {Melvin}, {Nichol}, {Raddick}, {Schawinski}, {Simpson}, {Skibba}, {Smith}, \&
+  {Thomas}}]{wil13}
+{Willett} K.~W. {et~al.}, 2013, \mnras, 435, 2835
+
+\bibitem[{{Wright}(2006)}]{wri06}
+{Wright} E.~L., 2006, \pasp, 118, 1711
+
+\end{thebibliography}
